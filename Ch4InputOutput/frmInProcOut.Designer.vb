@@ -83,9 +83,9 @@ Partial Class frmInProcOut
         'txtInput
         '
         Me.txtInput.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtInput.Location = New System.Drawing.Point(203, 103)
+        Me.txtInput.Location = New System.Drawing.Point(203, 105)
         Me.txtInput.Name = "txtInput"
-        Me.txtInput.Size = New System.Drawing.Size(100, 29)
+        Me.txtInput.Size = New System.Drawing.Size(70, 29)
         Me.txtInput.TabIndex = 5
         '
         'frmInProcOut
